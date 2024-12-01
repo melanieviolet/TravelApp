@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Travel App</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="about">About</string>
+    <string name="testing">testing</string>
+    <string name="textDisplay">This is an application for my final year university project. This uses Firebase and Android Studio</string>
+    <string name="about_info">This is an application for my final year university project. This uses Firebase and Android Studio.</string>
+    <string name="ok_button">OK</string>
+</resources>
